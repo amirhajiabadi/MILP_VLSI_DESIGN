@@ -8,7 +8,7 @@ We tried three different solvers (GLPK, CBC, IPOPT) and compared the result.
 We aimed to stabilize the optimization algorithm based on the variables' probable lower and upper bounds
 
 **Results:**
-Through trial and error, we spent a lot of time and effort determining the best approach to specify the variables and constraints in the Pyomo framework and addressing the issues. Eventually IPOPT solver showed exceptional performance and solved all 40 samples in 18 seconds.
+Through trial and error, we spent a lot of time and effort determining the best approach to specify the variables and constraints in the Pyomo framework and addressing the issues. **Eventually IPOPT solver showed exceptional performance and solved all 40 samples in 18 seconds**.
 
   
   

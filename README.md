@@ -1,4 +1,4 @@
-# MIP
+# MILP
 
 We attempted to utilize a framework that is independent of the solvers, as suggested in the description of
 the VLSI problem. During our investigation, we encountered Pyomo.
